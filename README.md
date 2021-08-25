@@ -1,1 +1,2 @@
-Esta é uma landing page que desenvolvi para fins de estudos.
+# ProjetoLandingPage
+Landing Page/Página Inicial demonstrativa.
